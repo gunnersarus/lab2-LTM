@@ -1,0 +1,10 @@
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Bai01.csproj.AssemblyReference.cache
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Lab02.Form1.resources
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Bai01.csproj.GenerateResource.cache
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Lab02.exe
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\obj\Debug\Lab02.pdb
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\bin\Debug\Lab02.exe.config
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\bin\Debug\Lab02.exe
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Lab02\bin\Debug\Lab02.pdb

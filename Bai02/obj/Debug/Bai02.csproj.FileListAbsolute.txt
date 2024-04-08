@@ -1,0 +1,10 @@
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\bin\Debug\Bai02.exe.config
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\bin\Debug\Bai02.exe
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\bin\Debug\Bai02.pdb
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.Bai02.resources
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.exe
+F:\UIT\Lập trinh mạng\Lập trình mạng\Lan2\Bai02\obj\Debug\Bai02.pdb

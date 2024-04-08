@@ -1,0 +1,16 @@
+[
+{
+"ten": "Đào, Phở và Piano",
+"giavechuan": 45000,
+"phongchieu": [ 1, 2, 3 ]
+},
+{
+"ten": "Mai",
+"giavechuan": 100000,
+"phongchieu": [ 2, 3 ]
+},
+{
+"ten": "Tarot",
+"giavechuan": 90000,
+"phongchieu": [ 3 ]
+]
